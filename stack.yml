@@ -1,0 +1,9 @@
+name: tailscale
+icon: tailscale
+title: Tailscale
+
+services:
+- name: tailscale
+  title: Tailscale
+  service: tailscale
+  required: true
