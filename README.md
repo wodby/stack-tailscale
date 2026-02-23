@@ -1,1 +1,1 @@
-# stack-tailscale
+# Tailscale stack for Wodby 2.0
